@@ -7,6 +7,7 @@
 	<version>0.14.0-SNAPSHOT</version>
 	<name>devops aplication</name>
 	<url>http://maven.apache.org</url>
+	<!-- testing triggering -->
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
 	</properties>	
